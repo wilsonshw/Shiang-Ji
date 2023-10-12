@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: lavascroll
+  m_Shader: {fileID: -6465566751694194690, guid: a7472d2b4e4699a449fd6a1632debe90,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_3B794311: 94.7
+    - Vector1_46F2C762: 0.05
+    - Vector1_48C272DB: 0
+    - Vector1_A7EE1910: 0
+    - Vector1_EDEEC2F1: 0.6
+    m_Colors:
+    - Color_2E7BAD08: {r: 0.35452068, g: 0.22316661, b: 0.5566038, a: 0}
+    - Color_60A38815: {r: 0.1957345, g: 0.1267355, b: 0.3018868, a: 0}
+    - Vector2_1B88B8D8: {r: 0, g: 1, b: 0, a: 0}

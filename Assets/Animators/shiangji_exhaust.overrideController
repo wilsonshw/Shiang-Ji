@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shiangji_exhaust
+  m_Controller: {fileID: 9100000, guid: 526849297c620da4cb0de84a3fd06432, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f427e424f939151469b5a283720e380a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b666bcc7760223b46b75b6e18b472893, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d579b651eecada4a93b511ba008a86a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e9be0343fc21ab440b400495d4b3ae4e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 884b154685f8f0a41b055bc0b9595a06, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 884b154685f8f0a41b055bc0b9595a06, type: 2}
